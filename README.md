@@ -1,3 +1,5 @@
+# !! WARNING !! DEPRECATED REPOSITORY. USE NEW REPOSIORY https://github.com/lnls-dig/halcs
+
 # Beam Position Monitor Software
 
 [![Build Status](https://travis-ci.org/lnls-dig/bpm-sw.svg)](https://travis-ci.org/lnls-dig/bpm-sw)
